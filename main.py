@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 # The number you want to pass as input to the bash script
-numbers = [1, 10, 100, 1000, 10000, 100000, 100000]
+numbers = [1, 10, 100, 1000, 10000, 100000]
 
 seq_times = []
 mpi_times = []
