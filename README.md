@@ -10,7 +10,7 @@ python3 main.py
 ```
 
 #### Output
-| execution type | pi | error | clock cycles | n |
+| execution type | pi | error | system time unit | n |
 |----------------|----|-------|--------------|---|
 | Seq execution  | 3.4641016151377544| 0.3225089615479613 | 1 | 1 |
 | MPI execution | 3.4641016151377544 | 0.3225089615479613 | 52 | 1 |
