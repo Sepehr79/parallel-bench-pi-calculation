@@ -3,6 +3,9 @@
 #### How to run?
 
 ```bash
+sudo apt-get install mpich
+```
+```bash
 sudo chmod +x ./main.bash
 ```
 ```bash
